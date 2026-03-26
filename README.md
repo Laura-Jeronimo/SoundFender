@@ -420,7 +420,7 @@ Lobby → [B] → Config. Parâmetro
 | **Memória EEPROM utilizada** | ~18 bytes (2 registros de log) |
 | **Intervalo de leitura** | 2 segundos |
 | **Intervalo de pisca** | 400ms |
-| **Protótipo** | [Wokwi]https://wokwi.com/projects/459529633590347777 |
+| **Protótipo** | [Protótipo SoundFender - Wokwi](https://wokwi.com/projects/459529633590347777) |
 
 ---
 
